@@ -3,7 +3,7 @@ class LegalController < ApplicationController
 
   %w[privacy terms_of_service third_parties].each do |name|
     define_method name do
-      render "legal/#{ENV.fetch('LEGAL_DIR', 'www.loomio.org')}/#{name}"
+      render "legal/#{ENV.fetch('LEGAL_DIR', 'www.loomio.org')}/#{name}.html.md"
     end
   end
 
