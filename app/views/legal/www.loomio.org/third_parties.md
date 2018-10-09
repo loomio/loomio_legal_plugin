@@ -94,20 +94,8 @@ We use reCAPTCHA on our signup form when you signup without a third party sign i
 
 Your use of the reCAPTCHA service is subject to the [Google Privacy Policy](https://policies.google.com/privacy) and [Terms of Use](https://policies.google.com/terms)
 
-
 ## Potentially personally identify data
 Services listed here receive your IP address, browser information and associated metadata. In some cases you will have already provided personally identifying information to these companies, which we receive from them, however we do not transmit your personally identifying data to them.
-
-#### Gravatar & Wordpress
-
-[Gravatar](https://gravatar.com/) is an opt-in service where users associate a profile photo to their email address.
-
-The Loomio blog is hosted by [Wordpress.com](https://wordpress.com).
-
-Both of these services are owned by [Automattic](https://automattic.com/).
-
-[Privacy policy](https://automattic.com/privacy/)
-[GDPR statement](https://en.support.wordpress.com/automattic-gdpr/)
 
 #### Facebook, Google and Slack sign in
 We allow you to login via your Facebook, Google or Slack accounts if wish to. When you do this we receive the profile information necessary to create your Loomio user profile. Our use of your Loomio profile information is described in our Privacy Policy.
